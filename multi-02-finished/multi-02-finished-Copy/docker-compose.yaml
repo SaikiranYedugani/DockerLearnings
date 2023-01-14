@@ -16,5 +16,5 @@ services:
   # frontend:
 
 
-  volumes:
-    data:
+volumes:
+  data:
